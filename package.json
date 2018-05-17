@@ -1,0 +1,21 @@
+{
+  "name": "proxy",
+  "version": "1.0.0",
+  "description": "Proxy hecho con Node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "keywords": [
+    "node",
+    "proxy"
+  ],
+  "dependencies": {
+    "dotenv": "^5.0.1",
+    "hapi": "16.6.2",
+    "nodemon": "^1.17.4"
+  },
+  "author": "jovipacme",
+  "license": "MIT"
+}
